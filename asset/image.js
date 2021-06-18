@@ -1,8 +1,8 @@
 var imageURLs = [
-    "/image/1.gif"
-  , "/image/2.gif"
-  , "/image/3.gif"
-  , "/image/1.gif"
+    "/asset/image/1.gif"
+  , "/asset/image/2.gif"
+  , "/asset/image/3.gif"
+  , "/asset/image/1.gif"
 ];
 function getImageTag() {
  var img = '<img src=\"';
